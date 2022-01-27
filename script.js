@@ -11,3 +11,8 @@ console.log(pessoa);
 
 pessoa.comidaFavorita = "pizza"
 console.log(pessoa);
+
+// Remova uma propriedade desse objeto.
+
+delete pessoa.idade;
+console.log(pessoa);

@@ -6,3 +6,8 @@ let pessoa = {
     animaldeEstimacao:"gato"
 }
 console.log(pessoa);
+
+// Adicione uma nova propriedade sem alterar seu objeto inicial.
+
+pessoa.comidaFavorita = "pizza"
+console.log(pessoa);

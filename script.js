@@ -16,3 +16,7 @@ console.log(pessoa);
 
 delete pessoa.idade;
 console.log(pessoa);
+
+// Mostre no console todas as propriedades desse objeto.
+
+console.log(pessoa);
